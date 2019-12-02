@@ -1,3 +1,4 @@
+#to run this code first download the code and then download sqlite and sqlite browser
 from tkinter import *
 import sqlite3
 
