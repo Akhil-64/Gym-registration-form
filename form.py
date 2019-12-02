@@ -1,4 +1,4 @@
-#to run this code first download the code and then download sqlite and sqlite browser
+#to run this code first download the code and then download sqlite3 and sqlite3 browser
 from tkinter import *
 import sqlite3
 
